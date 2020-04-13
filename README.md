@@ -1,3 +1,3 @@
-Menu slider & Modal
+Menu Slider & Modal
 
 [Live Demo]()
